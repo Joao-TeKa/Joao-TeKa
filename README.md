@@ -1,6 +1,6 @@
-### Hi, My name is João Ropke 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+João;)](https://git.io/typing-svg)
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+João+Guilherme+Ropke;)](https://git.io/typing-svg)
+</h1>
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
 
