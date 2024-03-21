@@ -1,6 +1,7 @@
 ### Hi, My name is João Ropke 👋
 
-<img href="https://personal-web-site-beta.vercel.app/" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
+
 
 ![João Ropke GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=github_dark )
 
