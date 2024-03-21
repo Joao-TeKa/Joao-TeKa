@@ -1,8 +1,8 @@
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Ropke!;" />
-</h1>
+</div>
 
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
+[![Portifolio](https://img.shields.io/badge/My+Personal+Web+Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
 
 
 
