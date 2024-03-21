@@ -3,7 +3,7 @@
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
 
 
-![João Ropke GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-TeKa&show_icons=true&theme=github_dark )
+![João Ropke GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=github_dark )
 
 ## Skills
 
