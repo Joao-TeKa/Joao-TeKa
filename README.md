@@ -8,8 +8,6 @@
 
 ![João Ropke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=radical)
 
-![João Ropke GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=github_dark )
-
 ## Skills
 
 <div style="display: inline_block">
