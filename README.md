@@ -1,5 +1,7 @@
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+João+Guilherme+Ropke;)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+Am+João+Guilherme+Ropke">
+  </a>
 </h1>
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
