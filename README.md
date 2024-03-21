@@ -1,11 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+Am+João+Guilherme+Ropke">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+Am+João+Ropke">
   </a>
 </h1>
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-web-site-beta.vercel.app/)
 
+![João Ropke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=radical)
 
 ![João Ropke GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-TeKa&show_icons=true&theme=github_dark )
 
