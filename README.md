@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Ropke!;" />
 </div>
 
+<p align="center">
+   Atualmente com 19 anos estou trilhando meu caminho para futuramente me tornar um desenvolvedor Full-Stack, e me fixar na área da tecnolgia. Tenho formação técnica em Ciência de Dados, e também conclui o curso de Java pelo Programa entra 21.
+</p><br>
+
 ## Skills
 
 <div style="display: inline_block">
