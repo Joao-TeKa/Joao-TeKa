@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-   Atualmente com 19 anos estou trilhando meu caminho para me tornar um Cientista de dados, e me fixar na área da tecnolgia. Tenho formação técnica em Ciência de Dados, e também conclui o curso de Java pelo Programa entra 21, atualmente estou cursando a faculdade de Ciência de Dados pela FIAP.
+   Atualmente com 21 anos estou trilhando meu caminho para me fixar na área da tecnolgia. Tenho formação técnica em Ciência de Dados, e também conclui o curso de Java pelo Programa entra 21, atualmente estou cursando a faculdade de Ciência de Dados pela FIAP.
 </p><br>
 
 ## Skills
